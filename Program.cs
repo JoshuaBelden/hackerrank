@@ -6,7 +6,7 @@ namespace hackerrank
     {
         static void Main()
         {
-            var result = Solution.countingValleys(4, "DDUUDDUU");
+            var result = Solution.JumpingOnTheClouds(new int[] { 0, 0, 1, 0, 0, 1, 0 });
             Console.WriteLine($"Result: {result}");
         }
     }

@@ -5,7 +5,7 @@ namespace hackerrank
 {
     public partial class Solution
     {
-        public static int countingValleys(int steps, string path)
+        public static int CountingValleys(int steps, string path)
         {
             // We need an accumulator that reads the path forward and alerts every time
             // we dip below sea level and back up.

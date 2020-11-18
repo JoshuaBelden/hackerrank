@@ -16,7 +16,7 @@ namespace hackerrank
 {
     public partial class Solution
     {
-        public static int sockMerchant(int numberOfSocks, int[] allSocks)
+        public static int SockMerchant(int numberOfSocks, int[] allSocks)
         {
             // Create a hash to store socks by color.
             var coloredSocks = new Dictionary<int, int>();
