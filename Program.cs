@@ -6,7 +6,7 @@ namespace hackerrank
     {
         static void Main()
         {
-            var result = Solution.JumpingOnTheClouds(new int[] { 0, 0, 1, 0, 0, 1, 0 });
+            var result = Solution.repeatedStrings("kmretasscityylpdhuwjirnqimlkcgxubxmsxpypgzxtenweirknjtasxtvxemtwxuarabssvqdnktqadhyktagjxoanknhgilnm", 736778906400);
             Console.WriteLine($"Result: {result}");
         }
     }
